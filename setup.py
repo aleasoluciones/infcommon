@@ -15,7 +15,7 @@ setup(name='infcommon',
                         'retrying==1.3.3',
                         'psycopg2==2.7.7',
                         'psycopg2-binary==2.7.7',
-                        'PyYAML==4.2b4',
+                        'PyYAML==5.4',
                         'jsonpickle==0.5.0',
                         'six>=1.13.0',
                         ]
