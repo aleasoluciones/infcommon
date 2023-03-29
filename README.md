@@ -1,6 +1,9 @@
 # infcommon documentation
 
-[![Build status](https://api.travis-ci.com/aleasoluciones/infcommon.svg?branch=master)](https://travis-ci.com/aleasoluciones/infcommon)
+[![CI](https://github.com/aleasoluciones/infcommon/actions/workflows/ci.yml/badge.svg)](https://github.com/aleasoluciones/infcommon/actions/workflows/ci.yml)
+![Python versions supported](https://img.shields.io/badge/supports%20python-2.7-blue.svg)
+
+
 
 ## How to set up your local development environment
 
